@@ -23,6 +23,8 @@ const config = {
   organizationName: 'Skeegan123', // Usually your GitHub org/user name.
   projectName: 'MSUBot-Docs', // Usually your repo name.
 
+  trailingSlash: false,
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
