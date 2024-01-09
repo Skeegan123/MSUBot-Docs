@@ -72,7 +72,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Overview',
           },
           {
             href: 'https://github.com/Skeegan123/MSUBot-Docs',
@@ -88,9 +88,13 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Overview',
                 to: '/docs/overview',
               },
+              {
+                label: 'Usage',
+                to: '/docs/category/usage',
+              }
             ],
           },
           {
@@ -120,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} MSUBot, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
