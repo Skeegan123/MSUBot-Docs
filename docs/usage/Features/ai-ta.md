@@ -10,7 +10,7 @@ This section provides a detailed look at the AI teaching assistant (powered by C
 ## Setup
 This section will explain how to setup the feature in your server.
 
-1. **Bot Initialization**: Follow the steps in the [Setup](/docs/usage/Professors/setup) section to initialize the bot in your server.
+1. **Bot Initialization**: Follow the steps in the [Setup](/docs/usage/setup) section to initialize the bot in your server.
 2. **Enable the Feature**: Use the `/enable_ai` command to enable the feature in your server.
 3. **Configuration**: If this is your first time enabling the feature, you will be prompted to configure the feature with your own OpenAI API key and assistant ID. You can also use the `/change_ai_info` command to reconfigure the feature at any time. See the below section [OpenAI Info](#openai-info) to learn more about how to get these values, and how to setup an assistant.
 4. **Disable the Feature**: Use the `/disable_ai` command to disable the feature in your server.

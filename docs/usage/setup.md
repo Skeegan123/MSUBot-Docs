@@ -15,6 +15,6 @@ sidebar_position: 2
 3. **Move the Bot's Role**: Once you have invited the bot to your server, you will need to move the bot's role up in the role list. This is necessary to ensure that the bot has the correct permissions to function properly. To do this, go to the "Server Settings" page, and click on the "Roles" tab. Then, click and drag the bot's role directly under the "Professor" role. It should look like the image below:
 ![Discord role list](img/discord-role-list.png)
 4. **Setup Class**: Once the bot has been added to the server, you need to setup the class it is associated with. You do this by using the `/setup_class` command. This command will open a modal for you to input all the info about your class.
-5. **Enable Wanted Features**: Once you have setup the class, you can enable the features you want to use. This is different for each feature, so see the [Features](/docs/usage/Professors/features) section for more information on how to enable each feature.
-6. **Done**: You are now ready to use the bot in your server. See the [Usage](/docs/usage/Professors/usage) section for more information on how to use the bot.
+5. **Enable Wanted Features**: Once you have setup the class, you can enable the features you want to use. This is different for each feature, so see the Features section for more information on how to enable each feature.
+6. **Done**: You are now ready to use the bot in your server. See the [Usage](/docs/category/usage) section for more information on how to use the bot.
 

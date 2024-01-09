@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Skeegan123/MSUBot-Docs',
         },
         blog: false,
         theme: {
@@ -75,7 +75,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Skeegan123/MSUBot-Docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -89,7 +89,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/overview',
               },
             ],
           },
@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Skeegan123/MSUBot-Docs',
               },
             ],
           },

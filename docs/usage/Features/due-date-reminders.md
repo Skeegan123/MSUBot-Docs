@@ -14,7 +14,7 @@ This section will explain how to setup the feature in your server.
 If you did not use the template when creating your server, you will need to manually set the due date channel. You do this by going to the channel you want to use, and using the `/set_assignment_channel` command.
 :::
 
-1. **Bot Initialization**: Follow the steps in the [Setup](/docs/usage/Professors/setup) section to initialize the bot in your server.
+1. **Bot Initialization**: Follow the steps in the [Setup](/docs/usage/setup) section to initialize the bot in your server.
 2. **Enable the Feature**: Use the `/enable_reminders` command to enable the feature in your server.
 3. **Upload the Schedule**: Use the `/upload_schedule` command to upload the schedule for the class. The schedule must be in a csv or xlsx file with the following format:
 
