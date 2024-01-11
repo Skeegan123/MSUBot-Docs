@@ -100,6 +100,17 @@ This section will explain how you or your students can use the feature in your s
 2. **Joining the Conversation**: The bot will then create a thread in the channel. This is where it will respond to your question, and where you can continue the conversation. Join it by clicking the link in the bot's response.
 3. **Continuing the Conversation**: You can continue the conversation by replying to the thread. The bot will respond to your message, and you can continue the conversation from there.
 
+## Commands
+This section will explain the extra commands that are available for this feature.
+
+- `/enable_ai`: Enables the feature in your server.
+- `/disable_ai`: Disables the feature in your server.
+- `/change_ai_info`: Allows you to change the OpenAI API key and assistant ID that the bot is using.
+- `/question`: Allows you to ask a question to the bot.
+- `/pause_ai`: Pauses AI responses in the current thread.
+- `/resume_ai`: Resumes AI responses in the current thread.
+- `!`: Putting an exclamation point at the beginning of your message will cause the bot to ignore that message, and not respond to it. Good for TA's and professors that want to clarify something without the bot responding to it.
+
 ## Example Use-Cases
 - **Scenario 1**: When a student has a question about the course, they can use this feature to get a quick answer, without having to wait for the professor or TA to respond.
 - **Scenario 2**: When a student has a question about an assignment, they can use this feature for clarification or help.

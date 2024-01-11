@@ -65,7 +65,7 @@ const config = {
         title: 'MSUBot',
         logo: {
           alt: 'MSUBot Logo',
-          src: 'img/logo.svg',
+          src: 'img/MSUBot.png',
         },
         items: [
           {
